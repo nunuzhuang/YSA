@@ -1,0 +1,63 @@
+.test {
+  /* background: green; */
+  font-size: 24px;
+}
+
+.question {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+  font-size: 24px;
+}
+
+.questionBtn {
+  display: flex;
+  justify-content: center;
+}
+
+.questionBtn {
+  margin: 5px;
+}
+
+.homeQ {
+  margin: 50px;
+}
+
+.loginForm {
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-top: 20px;
+}
+
+.loginNA {
+  margin-left: 30px;
+}
+
+.loginBtn {
+  margin-left: 30px;
+  margin-top: 10px;
+}
+
+.signupForm {
+  margin: 30px;
+}
+
+.a-signupBtn {
+  margin-left: 30px;
+}
+
+.e-signupBtn {
+  margin-left: 10px;
+}
+
+.signupPw {
+  margin-top: 10px;
+}
+
+.specials {
+  margin: 30px;
+}
+
+.uploadSample {
+  margin: 30px;
+}
